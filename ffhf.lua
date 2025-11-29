@@ -1,4 +1,4 @@
-local DuiUrl ="https://raw.githubusercontent.com/WM5M/jkhvhhkvnmvbmvcgccgcjvvcgvhj31343352/refs/heads/main/ngcnv.html"
+local DuiUrl ="https://raw.githack.com/WM5M/jkhvhhkvnmvbmvcgccgcjvvcgvhj31343352/refs/heads/main/ngcnv.html"
 local keyListUrl = "https://raw.githubusercontent.com/WM5M/jkhvhhkvnmvbmvcgccgcjvvcgvhj31343352/refs/heads/main/nvgxfbx.json"
 local KeysBin = MachoWebRequest(keyListUrl)
 local CurrentKey = MachoAuthenticationKey()
@@ -3337,4 +3337,5 @@ Citizen.CreateThread(
     end
 
 )
+
 
